@@ -7,7 +7,7 @@ Este documento contiene todas las instrucciones necesarias para instalar, config
 El proyecto está organizado en dos directorios principales:
 
 ```
-proyecto_ruleta/
+Casino-ruleta-python/
 ├── ruleta_server/     # Contiene el servidor web de la ruleta
 │   ├── database.py
 │   ├── ruleta.py
@@ -32,7 +32,7 @@ Es una buena práctica usar un entorno virtual para aislar las dependencias del 
 
 ```bash
 # Navega a la raíz del proyecto
-cd proyecto_ruleta
+cd Casino-ruleta-python
 
 # Crea el entorno virtual (si no existe)
 python3 -m venv venv
